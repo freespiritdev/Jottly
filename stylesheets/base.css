@@ -140,7 +140,7 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"] {
-<<<<<<< HEAD
+
 	  -moz-background-clip: padding;
 	  -webkit-background-clip: padding-box;
 	  background-clip: padding-box; /* prevents bg color from leaking outside the border */
@@ -565,5 +565,4 @@
   margin-top: 0.5em;
   text-transform: uppercase;
 }
-=======
->>>>>>> Adding files to gh-pages
+

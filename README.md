@@ -8,7 +8,6 @@ This is the Jott.ly Landing Page
 
 ![alt tag](https://cloud.githubusercontent.com/assets/6601494/8395174/5e10c620-1d15-11e5-823d-47226a2ef928.jpg)
 
-http://avyishi.github.io/Jottly
 
 
 
